@@ -41,5 +41,3 @@
 - IP routing and packet forwarding.
 - Understanding network delay and packet loss.
 
-**Course:** Computer Networks Practical  
-**Skills:** CN Skill 1 and CN Skill 2
